@@ -1,0 +1,20 @@
+{
+    "name": "6th-week6/the-bachelorette-season-15-episode-6-tv-full",
+    "description": "Watch The Bachelorette Season 15 Episode 6 Online for Free Putlocker S15E06 WATCH FULL EPISODES NOW (CLICK LINK BELOW TO WATCHING)",
+	"keywords": ["The Bachelorette Season 15 Episode 6 Online"],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "WATCH HERE : https://t.co/AaroX3wxM5",
+            "homepage": "https://t.co/AaroX3wxM5",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "movies123\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
